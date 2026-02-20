@@ -1,10 +1,10 @@
 # Mobile-Phone-Sales-Analysis
 
-### 🧩 Business Problem
+## 🧩 Business Problem
 A global mobile phone retailer operates across multiple countries and sales channels, including online, partner stores, and physical outlets. The company generates a large volume of sales data but lacks a centralized reporting system to monitor performance, identify best-selling products, and understand customer purchasing behavior.
 Management needs an interactive dashboard to analyze sales performance, identify trends, and understand customer preferences to improve business strategy, marketing, and inventory planning.
 
-### 🎯 Project Objective
+## 🎯 Project Objective
 The objective of this project is to build an interactive Power BI dashboard that:
 • Analyzes mobile sales performance across countries, cities, and regions
 • Identifies top-selling brands and models
@@ -13,10 +13,10 @@ The objective of this project is to build an interactive Power BI dashboard that
 • Evaluates performance across sales channels and payment methods
 • Helps the business make data-driven decisions
 
-### 🗂️ Dataset Description
+## 🗂️ Dataset Description
 The dataset contains detailed mobile phone sales transactions for 2024, including:
 
-## 📱 Product Information
+### 📱 Product Information
 • Mobile Brand
 • Mobile Model
 • Price
@@ -24,19 +24,24 @@ The dataset contains detailed mobile phone sales transactions for 2024, includin
 • Color
 • Operating System (Android / iOS)
 
-## 👤 Customer Information
+### 👤 Customer Information
 • Age Group
 • Gender
 
-## 🌍 Geographic Information
+### 🌍 Geographic Information
 • Country
 • City
 
-## 🛒 Sales Information
+### 🛒 Sales Information
 • Sales Channel (Online, Partner, In-Store)
 • Payment Method
 • Units Sold
 • Revenue
+
+
+
+
+
 
 
 
