@@ -37,14 +37,39 @@ The dataset contains detailed mobile phone sales transactions for 2024, includin
 • Payment Method
 • Units Sold
 • Revenue
-
-
-
-
-
-
-
-
-
 • Transaction Date
+
+
+## 📈 Dashboard Features
+The dashboard provides the following key analyses:
+
+### 📊 Sales Overview
+• Total Revenue
+• Total Units Sold
+• Total Transactions
+• Monthly Sales Trends
+
+### 📱 Product Performance Analysis
+• Top-selling mobile brands
+• Best-selling mobile models
+• Sales by storage size
+• Sales by operating system
+
+### 🌍 Regional Performance Analysis
+• Revenue by country and city
+• Units sold by region
+• Comparison of regional sales performance
+
+### 👤 Customer Demographics Analysis
+• Sales by age group
+• Sales by gender
+• Customer preference by brand and model
+
+### 🛒 Sales Channel & Payment Analysis
+• Sales by channel (Online, Partner, Store)
+• Revenue by payment type
+• Channel performance comparison
+
+
+
 
