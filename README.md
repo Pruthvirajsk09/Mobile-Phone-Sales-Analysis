@@ -18,7 +18,9 @@ The dataset contains detailed mobile phone sales transactions for 2024, includin
 
 ### 📱 Product Information
 • Mobile Brand
+
 • Mobile Model
+
 • Price
 • Storage Size
 • Color
