@@ -1,98 +1,131 @@
 # Mobile-Phone-Sales-Analysis
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWM0ZTJlM2YtYzIyYy00MDFlLWI5MWMtZmZkMDY2NWE2ZDQyIiwidCI6IjgzYTI2YTFiLTkzN2MtNDMyNy1iNzEzLWM5OWUzMjQ4MjU3NCJ9)
-## 🧩 Business Problem
-A global mobile phone retailer operates across multiple countries and sales channels, including online, partner stores, and physical outlets. The company generates a large volume of sales data but lacks a centralized reporting system to monitor performance, identify best-selling products, and understand customer purchasing behavior.
-Management needs an interactive dashboard to analyze sales performance, identify trends, and understand customer preferences to improve business strategy, marketing, and inventory planning.
+📱 Mobile Phone Sales Analysis Dashboard
+📊 Project Overview
 
-## 🎯 Project Objective
-The objective of this project is to build an interactive Power BI dashboard that:
-• Analyzes mobile sales performance across countries, cities, and regions
-• Identifies top-selling brands and models
-• Tracks monthly sales and revenue trends throughout 2024
-• Understands customer demographics such as age group and gender
-• Evaluates performance across sales channels and payment methods
-• Helps the business make data-driven decisions
+The Mobile Phone Sales Analysis Dashboard is an interactive Power BI project designed to analyze mobile phone sales performance across different dimensions such as revenue, customer behavior, product performance, and regional sales distribution.
 
-## 🗂️ Dataset Description
-The dataset contains detailed mobile phone sales transactions for 2024, including:
+The dashboard provides insights into sales trends, customer purchasing patterns, product demand, and regional market performance to support data-driven decision making for businesses in the mobile retail industry.
 
-### 📱 Product Information
-• Mobile Brand
+📈 Key Metrics
 
-• Mobile Model
+Total Revenue: $14.53M
 
-• Price
+Total Units Sold: 19K
 
-• Storage Size
+Total Transactions: 366
 
-• Color
+Average Price: $783.13
 
-• Operating System (Android / iOS)
+These metrics provide an overview of overall business performance and help monitor key sales indicators.
 
-### 👤 Customer Information
-• Age Group
+📊 Dashboard Pages
+1️⃣ Sales Overview
 
-• Gender
+This page presents the overall performance of mobile phone sales.
 
-### 🌍 Geographic Information
-• Country
+Key insights include:
 
-• City
+Monthly revenue trends across the year
 
-### 🛒 Sales Information
-• Sales Channel (Online, Partner, In-Store)
+Revenue contribution by different mobile brands
 
-• Payment Method
+Sales distribution across sales channels
 
-• Units Sold
+Revenue comparison across different countries
 
-• Revenue
+Payment method contribution to total revenue
 
-• Transaction Date
+2️⃣ Customer Behaviour
 
+This section analyzes customer purchasing patterns and demographic distribution.
 
-## 📈 Dashboard Features
-The dashboard provides the following key analyses:
+Key insights include:
 
-### 📊 Sales Overview
-• Total Revenue
+Units sold by gender
 
-• Total Units Sold
+Units sold by age groups
 
-• Total Transactions
+Preferred payment methods among customers
 
-• Monthly Sales Trends
+Brand preference across different age groups
 
-### 📱 Product Performance Analysis
-• Top-selling mobile brands
+Payment method usage across different age groups
 
-• Best-selling mobile models
+3️⃣ Product Performance
 
-• Sales by storage size
+This page focuses on product-level sales performance.
 
-• Sales by operating system
+Key insights include:
 
-### 🌍 Regional Performance Analysis
-• Revenue by country and city
+Best-selling mobile models
 
-• Units sold by region
+Operating system distribution (Android vs iOS)
 
-• Comparison of regional sales performance
+Sales distribution across different price ranges
 
-### 👤 Customer Demographics Analysis
-• Sales by age group
+Popular mobile colors among customers
 
-• Sales by gender
+Storage capacity preferences among buyers
 
-• Customer preference by brand and model
+4️⃣ Regional Analysis
 
-### 🛒 Sales Channel & Payment Analysis
-• Sales by channel (Online, Partner, Store)
+This section analyzes geographic sales distribution.
 
-• Revenue by payment type
+Key insights include:
 
-• Channel performance comparison
+Monthly revenue trends across regions
 
+Country-wise revenue contribution
 
+City-level sales transactions
 
+Geographic visualization of sales distribution
 
+🛠 Tools & Technologies
+
+Power BI – Dashboard development and visualization
+
+DAX – Measures and calculated metrics
+
+Excel / CSV Dataset – Data source
+
+Data Modeling – Table relationships and transformations
+
+📊 Skills Demonstrated
+
+Data Cleaning and Transformation
+
+Data Modeling
+
+KPI Development
+
+Business Data Analysis
+
+Interactive Dashboard Design
+
+Customer Behavior Analysis
+
+📷 Dashboard Preview
+Sales Overview
+
+(Add screenshot)
+
+Customer Behaviour
+
+(Add screenshot)
+
+Product Performance
+
+(Add screenshot)
+
+Regional Analysis
+
+(Add screenshot)
+
+👤 Author
+
+Pruthviraj Kadam
+Aspiring Data Analyst
+
+Skills: Python | SQL | Power BI | Excel | Statistics | Data Analysis
