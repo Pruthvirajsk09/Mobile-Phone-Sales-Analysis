@@ -103,12 +103,9 @@ Key insights include:
 <img width="1290" height="786" alt="Screenshot 2026-03-06 200251" src="https://github.com/user-attachments/assets/db04b279-3a29-4fd5-8aa5-392a1bf08a10" />
 
 
-
+\n
 👤 Author
 
 Pruthviraj Kadam
-Aspiring Data Analyst
-Skills: Python | SQL | Power BI | Excel | Data Analysis
-
 
 Skills: Python | SQL | Power BI | Excel | Statistics | Data Analysis
