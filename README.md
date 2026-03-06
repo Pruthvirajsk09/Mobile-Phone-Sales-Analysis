@@ -1,7 +1,9 @@
 # Mobile-Phone-Sales-Analysis
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWM0ZTJlM2YtYzIyYy00MDFlLWI5MWMtZmZkMDY2NWE2ZDQyIiwidCI6IjgzYTI2YTFiLTkzN2MtNDMyNy1iNzEzLWM5OWUzMjQ4MjU3NCJ9)
-📱 Mobile Phone Sales Analysis Dashboard
-📊 Project Overview
+
+#📱 Mobile Phone Sales Analysis Dashboard
+
+## 📊 Project Overview
 
 The Mobile Phone Sales Analysis Dashboard is an interactive Power BI project designed to analyze mobile phone sales performance across different dimensions such as revenue, customer behavior, product performance, and regional sales distribution.
 
